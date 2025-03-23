@@ -6,7 +6,7 @@
 
 ## 📋 About The Project
 
-A modern and intuitive Todo application built with Laravel 10 and Tailwind CSS. This application helps users manage their daily tasks with features like task creation, editing, completion tracking, and deletion.
+A modern and intuitive Todo application built with Laravel 10 and Bootstrap CSS. This application helps users manage their daily tasks with features like task creation, editing, completion tracking, and deletion.
 
 ### Features
 - ✨ Create new tasks
